@@ -3,6 +3,6 @@ public class Student {
 	private String address;
 	public Student () {
 		this.age = 12;
-		this.address = "master";
+		this.address = "master No.1";
 	}
 }
